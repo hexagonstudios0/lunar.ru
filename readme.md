@@ -1,7 +1,7 @@
 <div align=center>
 
 <img src="https://github.com/Parcoil/lunaar.org/blob/main/public/media/LLBIG.svg" height="250px">
-<h4 align="center">Lunaar is the ultimate proxy with added games and features.</h4>
+<h4 align="center">Lunarr is the new NativeGames! So please migrate as soon as possible</h4>
 </div>
 
 ![Lunaar image](https://i.imgur.com/8LWMrXt.png)
